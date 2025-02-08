@@ -1,14 +1,14 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Vraiment ?",
+    "Nan t'es sérieux ??",
+    "T'abuses...",
+    "Noa stp...",
+    "Jepeuplou",
+    "Si tu dis non, je vais être vraiment triste...",
+    "Vraiment triste...",
+    "Vraiment VRAIMENT tresite...",
+    "Ok, j'arrête de demander.",
+    "Mais dis oui >:("
 ];
 
 let messageIndex = 0;
