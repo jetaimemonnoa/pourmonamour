@@ -8,7 +8,7 @@ const messages = [
     "Vraiment triste...",
     "Vraiment VRAIMENT tresite...",
     "Ok, j'arrête de demander.",
-    "Mais dis oui >:("
+    "Mais juste dis oui putain >:("
 ];
 
 let messageIndex = 0;
