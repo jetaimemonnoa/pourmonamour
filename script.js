@@ -6,7 +6,7 @@ const messages = [
     "Jepeuplou",
     "Si tu dis non, je vais être vraiment triste...",
     "Vraiment triste...",
-    "Vraiment VRAIMENT tresite...",
+    "Vraiment VRAIMENT triste...",
     "Ok, j'arrête de demander.",
     "Mais juste dis oui putain >:("
 ];
